@@ -24,5 +24,7 @@ Why Yahoo Finance API:
 Execution
 ---------
 Run "app.py" using the command
+
 "python3 app.py"
+
 to get the result.
